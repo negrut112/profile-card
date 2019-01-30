@@ -31,7 +31,7 @@ in my work you can check on &lt;a href=&quot;<a href="https://github.com/negrut1
 &lt;h2&gt;Contact me via:&lt;/h2&gt;<br>
 &lt;ul&gt;<br>
 &lt;li&gt;&lt;a  href=”<a href="https://www.facebook.com/alin.negrutz">https://www.facebook.com/alin.negrutz</a>&quot;&gt;Facebook &lt;i class=“fa fa-facebook-square”&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;</p>
-&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/alin-negrut-872b79129/&quot;&gt;Linkdin &lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/alin-negrut-872b79129/&quot;&gt;Linkdin &lt;i class=&quot;fa fa linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;</p>
 &lt;li&gt;&lt;a href=&quot;&quot;&gt;Google+ &lt;i class=&quot;fa fa-google-plus-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/section&gt;
