@@ -2,7 +2,7 @@
 
 <p>A simple profile-card containig a short intro about me, a nice background and posibilities how to get in contact with me with help of HTML and CSS.</p>
 
-<p>My profile-card link: <a href="https://negrut112.github.io/profile-card/">https://negrut112.github.io/profile-card/</a></p>
+<p>My profile-card live preview: <a href="https://negrut112.github.io/profile-card/">https://negrut112.github.io/profile-card/</a></p>
 <img src="https://i.imgur.com/YKV65fN.png">
 
 ## HTML
@@ -51,6 +51,7 @@ justify-content: center;<br>
 background: url(’<a href="https://i.imgur.com/FktX2Kf.jpg">https://i.imgur.com/FktX2Kf.jpg</a>') no-repeat center center fixed;<br>
 background-size: cover;<br>
 }
+
 img {<br>
 width: 116px;<br>
 height: 106px;<br>
