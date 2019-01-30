@@ -77,12 +77,11 @@ body {
 
 
 img {
-  width: 233px;
-  height: 211px;
+  width: 116px;
+  height: 106px;
   border-radius: 50%;
   padding: 1px;
   background-color: #666;
-  filter: grayscale(50%);
   transition: all 0.5s ease-in-out;
 }
 
